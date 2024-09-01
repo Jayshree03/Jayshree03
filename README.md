@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Jayshree03, enthusiastic learner
+- 👀 I’m interested in Java, HTML, CSS
+- 🌱 I’m currently learning Java Hibernate and SpringBoot
+- 💞️ I’m looking to collaborate on Java projects
+- 📫 How to reach me jayshreegupta1020@gmail.com
+- 😄 Pronouns: She
